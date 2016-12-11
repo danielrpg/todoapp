@@ -1,0 +1,26 @@
+{
+  "name": "tododb",
+  "version": "1.0.0",
+  "description": "Todo application for todo checklist",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielrpg/todoapp.git"
+  },
+  "author": "Daniel Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielrpg/todoapp/issues"
+  },
+  "homepage": "https://github.com/danielrpg/todoapp#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.2",
+    "path": "^0.12.7"
+  }
+}

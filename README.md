@@ -1,0 +1,1 @@
+Esta aplicacion es completa con full stack developer

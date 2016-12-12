@@ -11,7 +11,7 @@ const PORT = 8000 || process.env.PORT;
 var DB = "mongodb://localhost:27017/tododb";
 
 var app = express();
-app.use(morga('dev'));
+app.use(morgan('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
 

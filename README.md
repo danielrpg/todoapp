@@ -1,1 +1,1 @@
-Esta aplicacion es completa con full stack developer
+Cambios en la parte del cliente
